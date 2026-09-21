@@ -28,7 +28,7 @@ api_key = os.getenv('OPENAI_API_KEY')
 
 # Check if the API key loaded
 if api_key:
-    print(f'API key successfully loaded. API key: {api_key[:10]}')
+    pass
 else:
     print(f'API key was not successfully loaded. Please check the .env file.')
     exit()
