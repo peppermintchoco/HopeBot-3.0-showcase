@@ -1,0 +1,14 @@
+.env
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+.DS_Store
+venv/
+.ipynb_checkpoints/
+*.mp3
+*.ics
+*.csv
+!data/synthetic/*.csv
+cleaned_data*
+mental_health*/
+econ*
