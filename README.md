@@ -64,6 +64,10 @@ cp .env.example .env # add your own OpenAI API key
 
 See `my_agent/agent.py` and `my_agent/tools.py` for the core logic. 
 
+## Screenshot
+
+![HopeBot 3.0 Streamlit interface](docs/app_screenshot.png)
+
 ## Author 
 Rachel Lau Kai Ling — MSc Health Data Science, UCL Institute of Health Informatics 
 Supervised by Dr Kezhi (Ken) Li
